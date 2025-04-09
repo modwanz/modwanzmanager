@@ -5,7 +5,12 @@
 AppName : Rz YouTube X Premium 
 AppVersion : 20.06.42
 PackageName : com.modwanz.android.youtube
-App Descriptions : Modwanz Manager is a complete solution for downloading, installing, and managing Modwanz apps and other mod APKs, offering a safe, and user-friendly experience.[Rz YouTube X Premium] visit our site <p style="color:red;"> (https://rzyoutubexpremium.blogspot.com/)
-</p>
+App Descriptions : Modwanz Manager is a complete solution for downloading, installing, and managing Modwanz apps and other mod APKs, offering a safe, and user-friendly experience.[Rz YouTube X Premium] visit our site (https://rzyoutubexpremium.blogspot.com/)
+
 
 ## Support wanz
+
+AppName :Support wanz
+AppVersion : 0.3.1.3.240913
+PackageName : com.modwanz.android.gms
+App Descriptions : Support wanz is a support application for Rz YouTube X Premium that I have modified. the function of this application is to link your google account into the Rz YouTube X Premium application.
