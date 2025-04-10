@@ -4,8 +4,8 @@
 - app name     : rz youtube x premium 
 - app version  : 20.06.42
 - Package name : com.modwanz.android.youtube
-- ┈➤ [Download]([https://](https://github.com/modwanz/modwanz.apk/releases/download/v20.06.42/Rz.YouTube.X.Premium_20.06.42.apk))
-
+- ┈➤ [Download](https://github.com/modwanz/modwanz.apk/releases/download/v20.06.42/Rz.YouTube.X.Premium_20.06.42.apk)
+- 
 ## Support wanz
 - app name     : support wanz
 - app version  : 0.3.1.3.240913
