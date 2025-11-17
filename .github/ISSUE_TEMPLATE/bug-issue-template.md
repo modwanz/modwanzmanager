@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 **Please only open the issue if the following is true**
-- This is an issue in the Modwanz Manager and ONLY Modwanz Manager (NOT Youtube Vanced/Music/microG)
+- This is an issue in the Modwanz Manager and ONLY Modwanz Manager (NOT Rz YouTube X Premium/Music/Support Wanz)
 
 **Phone Specifications:**
 - Brand:
