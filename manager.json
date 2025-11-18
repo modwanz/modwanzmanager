@@ -14,7 +14,7 @@
       "description": "Support Google Account",
       "latest": "0.3.4 - modwanz",
       "installed": "Tidak tersedia",
-      "icon": "https://github.com/modwanz/modwanzmanager/blob/main/Logo/supportwanz.png",
+      "icon": "https://raw.githubusercontent.com/modwanz/modwanzmanager/refs/heads/main/Logo/supportwanz.png",
       "apk": "https://raw.githubusercontent.com/modwanz/modwanzmanager/main/apk/vanced_music.apk",
       "package": "com.modwanz.android.gms"
     }
