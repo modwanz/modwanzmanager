@@ -1,14 +1,20 @@
 [
   {
     "name": "Rz YouTube X Premium",
-    "package": "com.modwanz.android.youtube",
+    "description": "Klien YouTube termodifikasi",
+    "latest": "17.03.38",
+    "installed": "Tidak tersedia",
     "icon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHXup3RCI7Bx-fG43VrYOLeuiB5I7ftyzHgh14J6R6GIgURpBeMydtd0gAcds6ytLKbFG8chmCPe9_eIoeA-_OSEj-n75OHsdRLiYYuhzYD-FSM2oN5qHqctQMUbd3-wO4_yNUZAolxdpWdasb5GJ4yweOE11PWb5SSiM9ivEbAqFTQOJ8RnNuqc33hENZ/s1600/20250610_172021.png",
-    "apk": "https://raw.githubusercontent.com/username/repo/branch/apk/contoh.apk"
+    "apk": "https://raw.githubusercontent.com/user/repo/branch/apk/vanced.apk",
+    "package": "com.vanced.app"
   },
   {
-    "name": "Mod App",
-    "package": "com.mod.app",
-    "icon": "https://raw.githubusercontent.com/username/repo/branch/icons/mod.png",
-    "apk": "https://raw.githubusercontent.com/username/repo/branch/apk/mod.apk"
+    "name": "YT Music Vanced",
+    "description": "Music Vanced Mod",
+    "latest": "5.12",
+    "installed": "-",
+    "icon": "https://raw.githubusercontent.com/user/repo/branch/icons/music.png",
+    "apk": "https://raw.githubusercontent.com/user/repo/branch/apk/music.apk",
+    "package": "com.vanced.music"
   }
 ]
