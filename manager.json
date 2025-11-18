@@ -1,11 +1,22 @@
-[
-  {
-    "name": "YouTube Vanced",
-    "description": "Klien YouTube termodifikasi",
-    "latest": "17.03.38",
-    "installed": "Tidak tersedia",
-    "icon": "https://raw.githubusercontent.com/username/repo/branch/icons/vanced.png",
-    "apk": "https://raw.githubusercontent.com/username/repo/branch/apk/vanced.apk",
-    "package": "com.vanced.app"
-  }
-]
+{
+  "apps": [
+    {
+      "name": "YouTube Vanced",
+      "description": "Klien Youtube Termodifikasi",
+      "latest": "17.03.38",
+      "installed": "Tidak tersedia",
+      "icon": "https://raw.githubusercontent.com/modwanz/modwanzmanager/main/icons/vanced.png",
+      "apk": "https://raw.githubusercontent.com/modwanz/modwanzmanager/main/apk/vanced.apk",
+      "package": "com.vanced.app"
+    },
+    {
+      "name": "YouTube Music Vanced",
+      "description": "Vanced untuk YouTube Music",
+      "latest": "4.64.51",
+      "installed": "Tidak tersedia",
+      "icon": "https://raw.githubusercontent.com/modwanz/modwanzmanager/main/icons/vanced_music.png",
+      "apk": "https://raw.githubusercontent.com/modwanz/modwanzmanager/main/apk/vanced_music.apk",
+      "package": "com.vanced.music"
+    }
+  ]
+}
