@@ -1,16 +1,14 @@
 [
   {
-    "name": "YouTube Vanced",
-    "description": "Klien YouTube termodifikasi dengan berbagai fitur berguna!",
-    "icon": "https://raw.githubusercontent.com/USERNAME/REPO/main/icons/vanced.png",
-    "apk": "https://raw.githubusercontent.com/USERNAME/REPO/main/apks/vanced.apk",
-    "version": "17.03.38"
+    "name": "Contoh App",
+    "package": "com.example.contoh",
+    "icon": "https://raw.githubusercontent.com/username/repo/branch/icons/contoh.png",
+    "apk": "https://raw.githubusercontent.com/username/repo/branch/apk/contoh.apk"
   },
   {
-    "name": "YouTube Music Vanced",
-    "description": "Vanced, tetapi untuk YouTube Musik!",
-    "icon": "https://raw.githubusercontent.com/USERNAME/REPO/main/icons/music.png",
-    "apk": "https://raw.githubusercontent.com/USERNAME/REPO/main/apks/music.apk",
-    "version": "4.64.51"
+    "name": "Mod App",
+    "package": "com.mod.app",
+    "icon": "https://raw.githubusercontent.com/username/repo/branch/icons/mod.png",
+    "apk": "https://raw.githubusercontent.com/username/repo/branch/apk/mod.apk"
   }
 ]
