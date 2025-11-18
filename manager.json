@@ -10,13 +10,13 @@
       "package": "com.modwanz.android.youtube."
     },
     {
-      "name": "YouTube Music Vanced",
-      "description": "Vanced untuk YouTube Music",
-      "latest": "4.64.51",
+      "name": "Support Wanz",
+      "description": "Support Google Account",
+      "latest": "0.3.4 - modwanz",
       "installed": "Tidak tersedia",
-      "icon": "https://raw.githubusercontent.com/modwanz/modwanzmanager/main/icons/vanced_music.png",
+      "icon": "https://github.com/modwanz/modwanzmanager/blob/main/Logo/supportwanz.png",
       "apk": "https://raw.githubusercontent.com/modwanz/modwanzmanager/main/apk/vanced_music.apk",
-      "package": "com.vanced.music"
+      "package": "com.modwanz.android.gms"
     }
   ]
 }
