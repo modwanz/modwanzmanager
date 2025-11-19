@@ -1,11 +1,11 @@
 {
-  "rz_youtube_x_premium": {
+  "rzx": {
     "title": "Tentang Rz YouTube X Premium",
     "icon": "https://raw.githubusercontent.com/modwanz/modwanzmanager/main/rz_icon.png",
     "description": "- Perubahan base\n- Perbaikan bug\n- Integrasi RYD\n- Peningkatan blok iklan"
-    "infoKey": "rzx"
   },
-  "support_wanz": {
+
+  "support": {
     "title": "Tentang Support Wanz",
     "icon": "https://raw.githubusercontent.com/modwanz/modwanzmanager/main/support_wanz.png",
     "description": "- Fix login\n- Optimasi Google Auth\n- UI baru"
