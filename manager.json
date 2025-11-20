@@ -2,12 +2,38 @@
   "apps": [
     {
       "name": "Rz YouTube X Premium",
-      "description": "Klien Youtube Termodifikasi",
+      "description": "Klien YouTube Termodifikasi",
       "latest": "20.06.48 - modwanz",
       "installed": "Tidak tersedia",
-      "icon": "https://raw.githubusercontent.com/modwanz/modwanzmanager/main/Logo/Rzytx.png",
-      "apk": "https://example.com/rzytx.apk",
-      "package": "com.rzytx.client"
+      "icon": "https://raw.githubusercontent.com/modwanz/modwanzmanager/main/Logo/rzytx.png",
+      "apk": "https://raw.githubusercontent.com/modwanz/modwanzmanager/main/APK/rzytx.apk",
+
+      "info_title": "Rz YouTube X Premium",
+      "info_desc": "Mod YouTube dengan fitur premium:\n\n• Adblock aktif\n• Background play\n• SponsorBlock\n• HDR + 60FPS support\n• UI Material You\n\nBuild by modwanz."
+    },
+
+    {
+      "name": "Rz Music X",
+      "description": "Klien YouTube Music Termodifikasi",
+      "latest": "7.21.51 - modwanz",
+      "installed": "Tidak tersedia",
+      "icon": "https://raw.githubusercontent.com/modwanz/modwanzmanager/main/Logo/rzmusic.png",
+      "apk": "https://raw.githubusercontent.com/modwanz/modwanzmanager/main/APK/rzmusic.apk",
+
+      "info_title": "Rz Music X",
+      "info_desc": "Mod YouTube Music dengan fitur lengkap:\n\n• No ads\n• Background play\n• High-quality audio unlock\n• Force visualizer\n• Optimize battery\n\nBuild by modwanz."
+    },
+
+    {
+      "name": "Rz MicroG",
+      "description": "Component diperlukan untuk login akun Google",
+      "latest": "0.3.8.12 - modwanz",
+      "installed": "Tidak tersedia",
+      "icon": "https://raw.githubusercontent.com/modwanz/modwanzmanager/main/Logo/microg.png",
+      "apk": "https://raw.githubusercontent.com/modwanz/modwanzmanager/main/APK/microg.apk",
+
+      "info_title": "Rz MicroG",
+      "info_desc": "Komponen wajib untuk enabling login Google di aplikasi mod:\n\n• Support Google Sign-In\n• Cloud messaging\n• Mirip MicroG asli tapi lebih ringan."
     }
   ]
 }
