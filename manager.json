@@ -1,0 +1,31 @@
+{
+  "apps": [
+    {
+      "name": "YouTube Vanced",
+      "description": "Klien YouTube termodifikasi dengan berbagai fitur berguna!",
+      "latest": "17.03.38",
+      "installed": "Tidak tersedia",
+      "icon": "https://raw.githubusercontent.com/modwanz/modwanzmanager/main/Logo/youtubevanced.png",
+      "apk": "https://raw.githubusercontent.com/modwanz/modwanzmanager/main/apk/youtube_vanced.apk",
+      "package": "com.vanced.android.youtube"
+    },
+    {
+      "name": "YouTube Music Vanced",
+      "description": "Vanced, tetapi untuk YouTube Musik! Lebih ringan namun tetap powerful.",
+      "latest": "17.03.38",
+      "installed": "Tidak tersedia",
+      "icon": "https://raw.githubusercontent.com/modwanz/modwanzmanager/main/Logo/youtubemusicvanced.png",
+      "apk": "https://raw.githubusercontent.com/modwanz/modwanzmanager/main/apk/youtube_music_vanced.apk",
+      "package": "com.vanced.android.music"
+    },
+    {
+      "name": "Vanced microG",
+      "description": "Implementasi GMS kustom untuk Vanced yang didasarkan pada microG.",
+      "latest": "0.2.27.230755",
+      "installed": "Tidak tersedia",
+      "icon": "https://raw.githubusercontent.com/modwanz/modwanzmanager/main/Logo/microg.png",
+      "apk": "https://raw.githubusercontent.com/modwanz/modwanzmanager/main/apk/microg.apk",
+      "package": "com.mgoogle.android.gms"
+    }
+  ]
+}
