@@ -6,8 +6,7 @@
       "latest": "17.03.38",
       "installed": "Tidak tersedia",
       "icon": "https://raw.githubusercontent.com/modwanz/modwanzmanager/main/Logo/youtubevanced.png",
-      "apk": "https://raw.githubusercontent.com/modwanz/modwanzmanager/main/apk/youtube_vanced.apk",
-      "package": "com.vanced.android.youtube"
+      "apk": "https://raw.githubusercontent.com/modwanz/modwanzmanager/main/apk/youtube_vanced.apk"
     },
     {
       "name": "YouTube Music Vanced",
@@ -15,8 +14,7 @@
       "latest": "17.03.38",
       "installed": "Tidak tersedia",
       "icon": "https://raw.githubusercontent.com/modwanz/modwanzmanager/main/Logo/youtubemusicvanced.png",
-      "apk": "https://raw.githubusercontent.com/modwanz/modwanzmanager/main/apk/youtube_music_vanced.apk",
-      "package": "com.vanced.android.music"
+      "apk": "https://raw.githubusercontent.com/modwanz/modwanzmanager/main/apk/youtube_music_vanced.apk"
     },
     {
       "name": "Vanced microG",
@@ -24,8 +22,7 @@
       "latest": "0.2.27.230755",
       "installed": "Tidak tersedia",
       "icon": "https://raw.githubusercontent.com/modwanz/modwanzmanager/main/Logo/microg.png",
-      "apk": "https://raw.githubusercontent.com/modwanz/modwanzmanager/main/apk/microg.apk",
-      "package": "com.mgoogle.android.gms"
+      "apk": "https://raw.githubusercontent.com/modwanz/modwanzmanager/main/apk/microg.apk"
     }
   ]
 }
