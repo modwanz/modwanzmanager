@@ -5,18 +5,9 @@
       "description": "Klien Youtube Termodifikasi",
       "latest": "20.06.48 - modwanz",
       "installed": "Tidak tersedia",
-      "icon": "https://raw.githubusercontent.com/modwanz/modwanzmanager/refs/heads/main/Logo/Rzytxprem.png",
-      "apk": "https://github.com/modwanz/rzytxprem/releases/download/v20.06.47/Rz.YouTube.X.Premium_20.06.47.-.modwanz.apk",
-      "package": "com.modwanz.android.youtube"
-    },
-    {
-      "name": "Support Wanz",
-      "description": "Support Google Account",
-      "latest": "0.3.4 - modwanz",
-      "installed": "Tidak tersedia",
-      "icon": "https://raw.githubusercontent.com/modwanz/modwanzmanager/refs/heads/main/Logo/supportwanz.png",
-      "apk": "https://github.com/modwanz/supportwanz/releases/download/v0.3.4/support.wanz_0.3.4.-.modwanz.apk",
-      "package": "com.modwanz.android.gms"
+      "icon": "https://raw.githubusercontent.com/modwanz/modwanzmanager/main/Logo/Rzytx.png",
+      "apk": "https://example.com/rzytx.apk",
+      "package": "com.rzytx.client"
     }
   ]
 }
