@@ -1,1 +1,29 @@
-.
+
+{
+  "apps": [
+    {
+      "name": "YouTube Vanced",
+      "description": "Klien YouTube termodifikasi dengan berbagai fitur berguna!",
+      "latest": "17.03.38",
+      "installed": "Tidak tersedia",
+      "icon": "https://raw.githubusercontent.com/modwanz/modwanzmanager/main/icons/vanced.png",
+      "download": "https://raw.githubusercontent.com/modwanz/modwanzmanager/main/apk/vanced.apk"
+    },
+    {
+      "name": "YouTube Music Vanced",
+      "description": "Vanced, tetapi untuk YouTube Musik! Memiliki lebih sedikit fitur tetapi tetap sangat berguna.",
+      "latest": "17.03.38",
+      "installed": "Tidak tersedia",
+      "icon": "https://raw.githubusercontent.com/modwanz/modwanzmanager/main/icons/music.png",
+      "download": "https://raw.githubusercontent.com/modwanz/modwanzmanager/main/apk/music.apk"
+    },
+    {
+      "name": "Vanced microG",
+      "description": "microG khusus untuk Vanced yang dibutuhkan agar login Google berfungsi.",
+      "latest": "0.2.24.220220",
+      "installed": "Tidak tersedia",
+      "icon": "https://raw.githubusercontent.com/modwanz/modwanzmanager/main/icons/microg.png",
+      "download": "https://raw.githubusercontent.com/modwanz/modwanzmanager/main/apk/microg.apk"
+    }
+  ]
+}
