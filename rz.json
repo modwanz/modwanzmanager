@@ -2,13 +2,13 @@
   "apps": [
     {
       "name": "Rz YouTube X Premium",
-      "description": "Klien Youtube Termodifikasi",
+      "description": "Klien Youtube Termomifikasi",
       "latest": "20.06.48 - modwanz",
       "installed": "Tidak tersedia",
       "icon": "https://raw.githubusercontent.com/modwanz/modwanzmanager/refs/heads/main/Logo/Rzytxprem.png",
       "apk": "https://github.com/modwanz/rzytxprem/releases/download/v20.06.47/Rz.YouTube.X.Premium_20.06.47.-.modwanz.apk",
       "package": "com.modwanz.android.youtube"
-    }
+    },
     {
       "name": "Support Wanz",
       "description": "Support Google Account",
