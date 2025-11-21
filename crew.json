@@ -2,9 +2,8 @@
   "apps": [
     {
       "name": "Rz YouTube X Premium",
-      "description": "Klien Youtube Termomifikasi",
+      "description": "Klien Youtube Termodifikasi",
       "latest": "20.06.48 - modwanz",
-      "installed": "Terpasang",
       "icon": "https://raw.githubusercontent.com/modwanz/modwanzmanager/main/Logo/Rzytxprem.png",
       "apk": "https://github.com/modwanz/modwanzmanager/app.apk",
       "changelog": "- Bumped base\n- Improved ad-blocking\n- Added themed icon Android 13+",
