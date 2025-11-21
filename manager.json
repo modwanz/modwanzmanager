@@ -1,33 +1,20 @@
 {
-  "title": "Tentang Rz YouTube X Premium",
-  "version": "v20.06.47 - modwanz",
-  "logo": "https://raw.githubusercontent.com/modwanz/modwanzmanager/refs/heads/main/Logo/Rzytxprem.png",
-
-  "changelog_title": "CATATAN PERUBAHAN",
-  "changelog": [
-    "- Bumped base",
-    "- ReturnYouTubeDislike integration",
-    "- Channel whitelisting for video ads",
-    "- Improved ad-blocking",
-    "- Comments location (alpha) removed (Google pushed new tablet UI)",
-    "- Added tablet style controls for landscape mode & tablet UI",
-    "- Added support for themed icon (Android 13+)",
-
-    "Sponsorblock changes:",
-    "- added support for channel whitelisting",
-    "- added minimum segment duration setting",
-    "- added filler category",
-    "- replaced the Change colors button with a text field",
-    "- 403 messages now properly displayed",
-    "- SB browser button option",
-    "- API URL change option"
+  "apps": [
+    {
+      "name": "Rz YouTube X",
+      "package": "com.rz.youtubex",
+      "icon": "https://raw.githubusercontent.com/.../icon.png",
+      "description": "Modded YouTube client",
+      "latest": "20.06.48",
+      "apk": "https://raw.githubusercontent.com/.../app.apk",
+      "apks": [
+        "https://raw.githubusercontent.com/.../base.apk",
+        "https://raw.githubusercontent.com/.../config.arm.apk"
+      ],
+      "changelog": "Fixed bugs, updated signature",
+      "required": false
+    }
   ],
-
-  "known_issues_title": "KNOWN ISSUES",
-  "known_issues": [
-    "- For some users Google pushed UI update that breaks RYD",
-    "- Buttons below videos missing",
-    "- Chromecast issues",
-    "- Swipe down to refresh issues"
-  ]
-}
+  "meta": {
+    "last_updated": "2025-11-19"
+  }
