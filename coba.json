@@ -1,0 +1,29 @@
+[
+  {
+    "name": "YouTube Mod",
+    "package": "com.modwanz.youtube",
+    "version": "1.0",
+    "size": "75 MB",
+    "icon": "https://i.imgur.com/3g7nmJC.png",
+    "desc": "YouTube mod dengan fitur premium.",
+    "download": "https://example.com/youtube-mod.apk"
+  },
+  {
+    "name": "Music Mod",
+    "package": "com.modwanz.music",
+    "version": "1.2",
+    "size": "45 MB",
+    "icon": "https://i.imgur.com/8l3o4Rc.png",
+    "desc": "Music mod dengan background play.",
+    "download": "https://example.com/music-mod.apk"
+  },
+  {
+    "name": "Instagram Mod",
+    "package": "com.modwanz.ig",
+    "version": "3.5",
+    "size": "52 MB",
+    "icon": "https://i.imgur.com/g5qDXdX.png",
+    "desc": "Instagram mod dengan fitur unduh media.",
+    "download": "https://example.com/ig-mod.apk"
+  }
+]
