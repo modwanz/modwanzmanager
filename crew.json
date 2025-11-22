@@ -8,6 +8,16 @@
       "apk": "https://github.com/modwanz/rzytxprem/releases/download/v20.06.47/Rz.YouTube.X.Premium_20.06.47.-.modwanz.apk",
       "changelog": "- Bumped base\n- Improved ad-blocking\n- Added themed icon Android 13+",
       "infoKey": "ytx"
+    },
+    {
+      "name": "Support Wanz",
+      "description": "Support Google Account",
+      "latest": "0.3.4 - modwanz",
+      "installed": "Tidak tersedia",
+      "icon": "https://raw.githubusercontent.com/modwanz/modwanzmanager/refs/heads/main/Logo/supportwanz.png",
+      "apk": "https://github.com/modwanz/supportwanz/releases/download/v0.3.4/support.wanz_0.3.4.-.modwanz.apk",
+      "package": "com.modwanz.android.gms",
+      "infoKey": "supportwanz"
     }
   ],
 
@@ -16,6 +26,12 @@
       "title": "Rz YouTube X Premium",
       "message": "- Bumped base\n- Improved ad-blocking\n- Added themed icon Android 13+",
       "icon": "https://raw.githubusercontent.com/modwanz/modwanzmanager/main/Logo/Rzytxprem.png"
+    },
+
+    "supportwanz": {
+      "title": "Support Wanz",
+      "message": "Support Google Account",
+      "icon": "https://raw.githubusercontent.com/modwanz/modwanzmanager/refs/heads/main/Logo/supportwanz.png"
     }
   }
 }
