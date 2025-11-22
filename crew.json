@@ -17,7 +17,6 @@
       "installed": "Tidak tersedia",
       "icon": "https://raw.githubusercontent.com/modwanz/modwanzmanager/refs/heads/main/Logo/supportwanz.png",
       "apk": "https://github.com/modwanz/supportwanz/releases/download/v0.3.4/support.wanz_0.3.4.-.modwanz.apk",
-      "package": "com.modwanz.android.gms",
       "changelog": "-Support Google Account",
       "infoKey": "supportwanz"
     }
