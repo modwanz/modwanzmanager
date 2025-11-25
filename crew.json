@@ -17,7 +17,7 @@
       "icon": "https://raw.githubusercontent.com/modwanz/modwanzmanager/main/Logo/instax.png",
       "apk": "https://github.com/modwanz/modwanzmanager/main/Logo/supportwanz.png",
       "changelog": "- Apache RTR\n- Firebase Storage Api\n- Support Google Account ",
-      "infoKey": "igx",
+      "infoKey": "ytx",
       "packageName": "com.modwanz.android.gms"
     }
   ],
@@ -27,7 +27,7 @@
       "message": "- Bumped base\n- Improved ad-blocking\n- Added themed icon Android 13+",
       "icon": "https://raw.githubusercontent.com/modwanz/modwanzmanager/main/Logo/rzytxprem.png"
     },
-    "igx": {
+    "ytx": {
       "title": "Support Wanz",
       "message": "- Apache RTR\n- Firebase Storage Api\n- Support Google Account ",
       "icon": "https://github.com/modwanz/modwanzmanager/main/Logo/supportwanz.png"
