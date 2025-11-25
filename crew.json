@@ -9,15 +9,28 @@
       "changelog": "- Bumped base\n- Improved ad-blocking\n- Added themed icon Android 13+",
       "infoKey": "ytx",
       "packageName": "com.modwanz.android.youtube"
+    },
+    {
+      "name": "Support Wanz",
+      "description": "Support Google Account",
+      "latest": "0.3.4  - modwanz",
+      "icon": "https://raw.githubusercontent.com/modwanz/modwanzmanager/main/Logo/instax.png",
+      "apk": "https://github.com/modwanz/modwanzmanager/blob/main/Logo/supportwanz.png",
+      "changelog": "- Apache RTR\n- Firebase Storage Api\n- Support Google Account ",
+      "infoKey": "igx",
+      "packageName": "com.modwanz.android.gms"
     }
   ],
-
   "info": {
     "ytx": {
       "title": "Rz YouTube X Premium",
       "message": "- Bumped base\n- Improved ad-blocking\n- Added themed icon Android 13+",
       "icon": "https://raw.githubusercontent.com/modwanz/modwanzmanager/main/Logo/rzytxprem.png"
+    },
+    "igx": {
+      "title": "Support Wanz",
+      "message": "- Apache RTR\n- Firebase Storage Api\n- Support Google Account ",
+      "icon": "https://github.com/modwanz/modwanzmanager/blob/main/Logo/supportwanz.png"
     }
   }
 }
-
