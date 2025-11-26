@@ -13,7 +13,7 @@
     {
       "name": "Support Wanz",
       "description": "Support Google Account",
-      "latest": "0.3.5 - modwanz",
+      "latest": "0.3.4 - modwanz",
       "icon": "https://raw.githubusercontent.com/modwanz/modwanzmanager/main/Logo/supportwanz.png",
       "apk": "https://github.com/modwanz/supportwanz/releases/download/v0.3.4/support.wanz_0.3.4.-.modwanz.apk",
       "changelog": "- Apache RTR\n- Firebase Storage Api\n- Support Google Account ",
