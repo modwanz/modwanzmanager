@@ -1,89 +1,183 @@
+          _____                   _______                   _____                    _____                    _____                    _____                    _____          
+         /\    \                 /::\    \                 /\    \                  /\    \                  /\    \                  /\    \                  /\    \         
+        /::\____\               /::::\    \               /::\    \                /::\____\                /::\    \                /::\____\                /::\    \        
+       /::::|   |              /::::::\    \             /::::\    \              /:::/    /               /::::\    \              /::::|   |                \:::\    \       
+      /:::::|   |             /::::::::\    \           /::::::\    \            /:::/   _/___            /::::::\    \            /:::::|   |                 \:::\    \      
+     /::::::|   |            /:::/~~\:::\    \         /:::/\:::\    \          /:::/   /\    \          /:::/\:::\    \          /::::::|   |                  \:::\    \     
+    /:::/|::|   |           /:::/    \:::\    \       /:::/  \:::\    \        /:::/   /::\____\        /:::/__\:::\    \        /:::/|::|   |                   \:::\    \    
+   /:::/ |::|   |          /:::/    / \:::\    \     /:::/    \:::\    \      /:::/   /:::/    /       /::::\   \:::\    \      /:::/ |::|   |                    \:::\    \   
+  /:::/  |::|___|______   /:::/____/   \:::\____\   /:::/    / \:::\    \    /:::/   /:::/   _/___    /::::::\   \:::\    \    /:::/  |::|   | _____               \:::\    \  
+ /:::/   |::::::::\    \ |:::|    |     |:::|    | /:::/    /   \:::\ ___\  /:::/___/:::/   /\    \  /:::/\:::\   \:::\    \  /:::/   |::|   |/\    \               \:::\    \ 
+/:::/    |:::::::::\____\|:::|____|     |:::|    |/:::/____/     \:::|    ||:::|   /:::/   /::\____\/:::/  \:::\   \:::\____\/:: /    |::|   /::\____\_______________\:::\____\
+\::/    / ~~~~~/:::/    / \:::\    \   /:::/    / \:::\    \     /:::|____||:::|__/:::/   /:::/    /\::/    \:::\  /:::/    /\::/    /|::|  /:::/    /\::::::::::::::::::/    /
+ \/____/      /:::/    /   \:::\    \ /:::/    /   \:::\    \   /:::/    /  \:::\/:::/   /:::/    /  \/____/ \:::\/:::/    /  \/____/ |::| /:::/    /  \::::::::::::::::/____/ 
+             /:::/    /     \:::\    /:::/    /     \:::\    \ /:::/    /    \::::::/   /:::/    /            \::::::/    /           |::|/:::/    /    \:::\~~~~\~~~~~~       
+            /:::/    /       \:::\__/:::/    /       \:::\    /:::/    /      \::::/___/:::/    /              \::::/    /            |::::::/    /      \:::\    \            
+           /:::/    /         \::::::::/    /         \:::\  /:::/    /        \:::\__/:::/    /               /:::/    /             |:::::/    /        \:::\    \           
+          /:::/    /           \::::::/    /           \:::\/:::/    /          \::::::::/    /               /:::/    /              |::::/    /          \:::\    \          
+         /:::/    /             \::::/    /             \::::::/    /            \::::::/    /               /:::/    /               /:::/    /            \:::\    \         
+        /:::/    /               \::/____/               \::::/    /              \::::/    /               /:::/    /               /:::/    /              \:::\____\        
+        \::/    /                 ~~                      \::/____/                \::/____/                \::/    /                \::/    /                \::/    /        
+         \/____/                                           ~~                       ~~                       \/____/                  \/____/                  \/____/         
+                                                                                                                                                                               
 
-──────────────────────────────────────────────────────────────
-                     ✦ MODWANZ SOFTWARE LICENSE ✦
-                    Premium Edition — MIT License 2025
-──────────────────────────────────────────────────────────────
- Application Name : Modwanz
- Package          : com.modwanz.manager
- Author           : Ridwan Zaelani
-──────────────────────────────────────────────────────────────
+                   ✦ MODWANZ SUPER LONG LICENSE FILE ✦
+             Hyper Premium • Decorative • MIT-Compliant Version
+─────────────────────────────────────────────────────────────────────────────
+ Application Name : Modwanz  
+ Package          : com.modwanz.manager  
+ Author           : Ridwan Zaelani  
+ Edition          : ULTRA PREMIUM — SUPER LONG EDITION  
+─────────────────────────────────────────────────────────────────────────────
 
-                     ✦ OFFICIAL LICENSE STATEMENT ✦
+                      ✦ INTRODUCTION & PURPOSE ✦
 
-This software, known as **Modwanz**, is an independently developed
-Android application created to provide an enhanced, optimized, and
-streamlined user experience. This license grants freedom for personal
-and commercial usage while preserving the author’s creative rights.
+This license governs the usage of **Modwanz**, a software project built with
+dedication, passion, and precision. This extended license is designed to:
 
-By accessing or using this Software, you acknowledge that you have read,
-understood, and agreed to the following license terms. This is a premium
-edition of the MIT License, aesthetically enhanced for clarity and
-professional presentation, while maintaining its legal structure.
+ • Present an elegant, artistic, and stylized document  
+ • Maintain full legal validity under MIT License standards  
+ • Provide additional clarity and transparency  
+ • Serve as both a legal and branding asset  
+ • Showcase professional aesthetics suitable for GitHub, websites, and apps  
 
-──────────────────────────────────────────────────────────────
-                          ✦ MIT LICENSE ✦
-──────────────────────────────────────────────────────────────
+While this license may appear significantly longer and more elaborate, the
+legal structure remains rooted in the MIT License for maximum freedom.
+
+─────────────────────────────────────────────────────────────────────────────
+                           ✦ PROJECT STATEMENT ✦
+
+Modwanz is an Android-based application designed to enhance functionality,
+provide a modern user interface, and empower end-users with refined tools
+and systems. Built under the package:
+
+                    **com.modwanz.manager**
+
+the project reflects a mindset of innovation and continuous development.
+
+This license emphasizes openness, collaboration, and respect for original
+creation while ensuring freedom for modification and distribution.
+
+─────────────────────────────────────────────────────────────────────────────
+                   ✦ ACKNOWLEDGMENT OF ORIGINAL WORK ✦
+
+The creator of this project:
+
+                   **RIDWAN ZAELANI**
+
+retains authorship and recognition for the original version of the Software.
+Any use, reuse, modification, or republishing must uphold this credit.
+
+This is not a restriction — it is a respect-based guideline embedded in the
+MIT License, designed to honor creative effort.
+
+─────────────────────────────────────────────────────────────────────────────
+                             ✦ MIT LICENSE ✦
+─────────────────────────────────────────────────────────────────────────────
 
 Copyright (c) 2025  
 **Modwanz — com.modwanz.manager**  
 **Author: Ridwan Zaelani**
 
-Permission is hereby granted, free of charge, to any person obtaining a
-copy of this software and associated documentation files (the “Software”),
-to deal in the Software without restriction, including without limitation
-the rights to:
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the “Software”), to
+deal in the Software without restriction, including without limitation the
+rights to:
 
- • Use  
- • Copy  
- • Modify  
- • Merge  
- • Publish  
- • Distribute  
- • Sublicense  
+ • Use the Software  
+ • Copy the Software  
+ • Modify the Software  
+ • Merge the Software  
+ • Publish the Software  
+ • Distribute the Software  
+ • Sublicense the Software  
  • Sell copies of the Software  
 
-and to permit persons to whom the Software is furnished to do so, subject
-to the following conditions:
+These rights are granted to all individuals and organizations universally,
+with no discrimination or limitation regarding geographic location,
+background, or affiliation.
 
-1. The above copyright notice and this permission notice shall be included
-   in all copies or substantial portions of the Software.
+The following conditions apply:
 
-2. Any modifications made to the Software should include a clear note or
-   changelog indicating alterations, ensuring transparency for future users
-   and developers.
+1. This copyright notice and permission notice must be included in **all**
+   copies, reuse versions, derivative works, and merged distributions.
 
-3. This Software may not be presented as the original work of another
-   person or organization. Proper credit to the author, **Ridwan Zaelani**,
-   must be maintained.
+2. The author name, **Ridwan Zaelani**, must remain acknowledged as the
+   original creator of the source project.
 
-──────────────────────────────────────────────────────────────
-                    ✦ WARRANTY & LIABILITY DISCLAIMER ✦
-──────────────────────────────────────────────────────────────
+3. While full freedom is granted, redistribution with malicious intent or
+   misrepresentation of authorship is strictly discouraged.
 
-THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO:
+─────────────────────────────────────────────────────────────────────────────
+               ✦ EXPANDED WARRANTY & LIABILITY DISCLAIMER ✦
+─────────────────────────────────────────────────────────────────────────────
 
- • The implied warranties of merchantability  
- • Fitness for a particular purpose  
- • Non-infringement  
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT ANY WARRANTY.
 
-In no event shall the authors or copyright holders be liable for any
-claim, damages, or other liability, whether in an action of contract, tort
-or otherwise, arising from, out of, or in connection with the Software or
-the use or other dealings in the Software.
+This includes, but is not limited to:
 
-The user assumes full responsibility for any risks associated with running,
-installing, modifying, or distributing this Software.
+ • No guarantee of performance  
+ • No guarantee of stability  
+ • No guarantee of compatibility  
+ • No guarantee of accuracy  
+ • No guarantee of long-term support  
 
-──────────────────────────────────────────────────────────────
-                     ✦ ADDITIONAL PREMIUM NOTES ✦
-──────────────────────────────────────────────────────────────
+The author shall NOT be held liable for:
 
- • The aesthetic formatting of this license does not affect legal validity.  
- • Redistribution in any form must retain all author attributions.  
- • Premium formatting may be modified for readability in text-only systems.  
- • Open-source contributions are welcome but must respect license terms.  
+ • Data loss  
+ • System corruption  
+ • Device malfunction  
+ • Financial loss  
+ • Security breaches  
+ • Application misuse  
+ • Unauthorized redistribution by third parties  
 
-──────────────────────────────────────────────────────────────
-                 ✦ END OF MODWANZ PREMIUM LICENSE FILE ✦
-──────────────────────────────────────────────────────────────
+Users are responsible for evaluating risks associated with installing or
+modifying the Software.
+
+─────────────────────────────────────────────────────────────────────────────
+                ✦ EXTENDED INFORMATION & CLARIFICATIONS ✦
+─────────────────────────────────────────────────────────────────────────────
+
+To enhance transparency and provide depth, the following additional notes
+extend the MIT license in a non-legal, explanatory form:
+
+ • **Commercial Use:**  
+   Allowed without requiring royalties.
+
+ • **Source Code Modifications:**  
+   Developers are encouraged — but not legally required — to document changes.
+
+ • **Branding Elements:**  
+   Logos, names, colors, and proprietary designs within Modwanz may be
+   protected separately and are not automatically covered under MIT terms.
+
+ • **License Styling:**  
+   The artistic formatting in this file is aesthetic and does not affect 
+   legal validity.
+
+ • **Community Contributions:**  
+   Pull requests, forks, and feature enhancements are welcome.
+
+─────────────────────────────────────────────────────────────────────────────
+                       ✦ ARTISTIC & BRANDING NOTICE ✦
+─────────────────────────────────────────────────────────────────────────────
+
+This SUPER LONG EDITION contains enhanced decorations including:
+
+ • ASCII artwork  
+ • Structured sections  
+ • Professional separators  
+ • Expanded explanations  
+ • Branding-focused narratives  
+
+These enhancements exist to:
+
+ • Strengthen identity  
+ • Improve readability  
+ • Demonstrate professionalism  
+ • Provide a premium impression  
+
+─────────────────────────────────────────────────────────────────────────────
+                     ✦ END OF SUPER LONG LICENSE FILE ✦
+─────────────────────────────────────────────────────────────────────────────
