@@ -1,6 +1,16 @@
 {
   "apps": [
     {
+      "name": "YouTube Modwanz",
+      "description": "Klien Youtube Termodifikasi",
+      "latest": "maintenance",
+      "icon": "https://raw.githubusercontent.com/modwanz/modwanzmanager/main/Logo/rzytxprem.png",
+      "apk": "#",
+      "changelog": "- Bumped base\n- Improved ad-blocking\n- Added themed icon Android 13+",
+      "infoKey": "ytm",
+      "packageName": "com.modwanz.android.youtube"
+    },
+    {
       "name": "Rz YouTube X Premium",
       "description": "Klien Youtube Termodifikasi",
       "latest": "maintenance",
@@ -9,6 +19,16 @@
       "changelog": "- Bumped base\n- Improved ad-blocking\n- Added themed icon Android 13+",
       "infoKey": "ytx",
       "packageName": "com.modwanz.android.youtube"
+    },
+    {
+      "name": "Rz YouTube X Premium Lite",
+      "description": "Klien Youtube Termodifikasi",
+      "latest": "maintenance",
+      "icon": "https://raw.githubusercontent.com/modwanz/modwanzmanager/main/Logo/rzytxprem.png",
+      "apk": "#",
+      "changelog": "- Bumped base\n- Improved ad-blocking\n- Added themed icon Android 13+",
+      "infoKey": "ytl",
+      "packageName": "com.modwanz.android.youtube.lite"
     },
     {
       "name": "Support Wanz",
@@ -46,8 +66,18 @@
     
   ],
   "info": {
+  "ytm": {
+      "title": "Rz YouTube X Premium",
+      "message": "- Bumped base\n- Improved ad-blocking\n- Added themed icon Android 13+",
+      "icon": "https://raw.githubusercontent.com/modwanz/modwanzmanager/main/Logo/rzytxprem.png"
+    },
     "ytx": {
       "title": "Rz YouTube X Premium",
+      "message": "- Bumped base\n- Improved ad-blocking\n- Added themed icon Android 13+",
+      "icon": "https://raw.githubusercontent.com/modwanz/modwanzmanager/main/Logo/rzytxprem.png"
+    },
+    "ytl": {
+      "title": "Rz YouTube X Premium Lite",
       "message": "- Bumped base\n- Improved ad-blocking\n- Added themed icon Android 13+",
       "icon": "https://raw.githubusercontent.com/modwanz/modwanzmanager/main/Logo/rzytxprem.png"
     },
