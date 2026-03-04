@@ -20,6 +20,19 @@
       "infoKey": "swx",
       "packageName": "com.modwanz.android.gms"
     }
+    
+    {
+      "name": "AdMaker",
+      "description": "Premium Unlocked",
+      "latest": "48.0 - modwanz",
+      "icon": "https://github.com/modwanz/modwanzmanager/blob/main/Logo/admaker.png",
+      "apk": "https://github.com/modwanz/modwanz/releases/download/48.0/Ad.Maker_48.0.-.modwanz.apk",
+      "changelog": "- Apache RTR\n- Firebase Storage Api\n- Support Google Account ",
+      "infoKey": "admk",
+      "packageName": "com.modwanz.marketingmaker"
+    }
+    
+    
   ],
   "info": {
     "ytx": {
@@ -31,6 +44,11 @@
       "title": "Support Wanz",
       "message": "- Apache RTR\n- Firebase Storage Api\n- Support Google Account ",
       "icon": "https://raw.githubusercontent.com/modwanz/modwanzmanager/main/Logo/supportwanz.png"
+    }
+     "admk": {
+      "title": "AdMaker",
+      "message": "- Ad-Free Experience\n- Advanced Design Tools\n- High-Quality Export\n- Faster Performance\n- Exclusive Templates\n- Custom Branding\n- Priority Updates\n- Cloud Storage Support\n- Multi-Platform Compatibility\n- Priority Support",
+      "icon": "https://github.com/modwanz/modwanzmanager/blob/main/Logo/admaker.png"
     }
   }
 }
