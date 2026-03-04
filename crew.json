@@ -9,7 +9,7 @@
       "changelog": "- Bumped base\n- Improved ad-blocking\n- Added themed icon Android 13+",
       "infoKey": "ytx",
       "packageName": "com.modwanz.android.youtube"
-    }
+    },
     {
       "name": "Support Wanz",
       "description": "Support Google Account",
