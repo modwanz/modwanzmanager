@@ -1,9 +1,9 @@
 {
- "ads":[
-  {
-   "title":"Test Iklan",
-   "description":"Jika ini muncul berarti sistem iklan bekerja",
-   "link":"https://google.com"
-  }
- ]
+  "ads": [
+    {
+      "title": "Promo Aplikasi",
+      "description": "Download aplikasi terbaru sekarang!",
+      "link": "https://t.me/modwanz"
+    }
+  ]
 }
