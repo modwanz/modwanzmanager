@@ -1,9 +1,15 @@
 {
+  "status": true,
   "ads": [
     {
-      "title": "Promo Aplikasi",
-      "description": "Download aplikasi terbaru sekarang!",
+      "title": "Join Telegram",
+      "description": "Gabung channel mod terbaru",
       "link": "https://t.me/modwanz"
+    },
+    {
+      "title": "Download App Baru",
+      "description": "Aplikasi terbaru sudah tersedia",
+      "link": "https://google.com"
     }
   ]
 }
