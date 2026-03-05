@@ -1,0 +1,34 @@
+{
+  "ads_enabled": true,
+  "ad_network": "custom",
+  "banner_ads": [
+    {
+      "id": "banner_1",
+      "image_url": "https://raw.githubusercontent.com/username/repo/main/banner1.jpg",
+      "click_url": "https://play.google.com/store/apps/details?id=com.example.app",
+      "position": "bottom"
+    }
+  ],
+  "interstitial_ads": [
+    {
+      "id": "interstitial_1",
+      "image_url": "https://raw.githubusercontent.com/username/repo/main/interstitial.jpg",
+      "click_url": "https://example.com"
+    }
+  ],
+  "native_ads": [
+    {
+      "id": "native_1",
+      "title": "Aplikasi Hebat",
+      "description": "Download sekarang juga!",
+      "image_url": "https://raw.githubusercontent.com/username/repo/main/native.jpg",
+      "icon_url": "https://raw.githubusercontent.com/username/repo/main/icon.png",
+      "click_url": "https://play.google.com/store/apps/details?id=com.example.otherapp"
+    }
+  ],
+  "ad_frequency": {
+    "banner_interval": 30000,
+    "interstitial_interval": 60000,
+    "interstitial_after_clicks": 3
+  }
+}
