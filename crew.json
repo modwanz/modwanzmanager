@@ -57,7 +57,7 @@
       "description": "Premium Unlocked",
       "latest": "8.0 - modwanz",
       "icon": "https://raw.githubusercontent.com/modwanz/modwanzmanager/main/Logo/Hypic.png",
-      "apk": "#",
+      "apk": "https://github.com/modwanz/modwanz/releases/download/8.0/Hypic_8.0.0.apk",
       "changelog": "- No Ads\n -Vip Features Unlocked\n- Multi Language Supported\n- All Debug Info Removed\n- Unnecessary Files Removed\n- Original Signature Changed\n- Full Clean and Optimized",
       "infoKey": "hay",
       "packageName": "com.xt.retouchoversea"
