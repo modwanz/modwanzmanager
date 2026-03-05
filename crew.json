@@ -61,8 +61,18 @@
       "changelog": "- No Ads\n -Vip Features Unlocked\n- Multi Language Supported\n- All Debug Info Removed\n- Unnecessary Files Removed\n- Original Signature Changed\n- Full Clean and Optimized",
       "infoKey": "hay",
       "packageName": "com.xt.retouchoversea"
-    }
+    },
     
+    {
+      "name": "CD-ROMantic Pro",
+      "description": "Premium Unlocked",
+      "latest": "3.2.1 - modwanz",
+      "icon": "https://raw.githubusercontent.com/modwanz/modwanzmanager/main/Logo/CD-Romantic.png",
+      "apk": "#",
+      "changelog": "- No Ads\n -Vip Features Unlocked\n- Multi Language Supported\n- All Debug Info Removed\n- Unnecessary Files Removed\n- Original Signature Changed\n- Full Clean and Optimized",
+      "infoKey": "cd",
+      "packageName": "maa.slowed_reverb.vaporwave_music_maker_pro"
+    },
     
   ],
   "info": {
@@ -95,7 +105,13 @@
       "title": "Hypic",
       "message": "- No Ads\n -Vip Features Unlocked\n- Multi Language Supported\n- All Debug Info Removed\n- Unnecessary Files Removed\n- Original Signature Changed\n- Full Clean and Optimized",
       "icon": "https://raw.githubusercontent.com/modwanz/modwanzmanager/main/Logo/Hypic.png"
+    },
+    "cd": {
+      "title": "CD-ROMantic Pro",
+      "message": "- No Ads\n -Vip Features Unlocked\n- Multi Language Supported\n- All Debug Info Removed\n- Unnecessary Files Removed\n- Original Signature Changed\n- Full Clean and Optimized",
+      "icon": "https://raw.githubusercontent.com/modwanz/modwanzmanager/main/Logo/CD-Romantic.png"
     }
+    
     
   }
 }
