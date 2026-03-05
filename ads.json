@@ -1,0 +1,19 @@
+{
+ "ads":[
+  {
+   "type":"popup",
+   "title":"Gabung Telegram Modwanz",
+   "description":"Update aplikasi mod terbaru",
+   "image":"https://raw.githubusercontent.com/modwanz/modwanzmanager/main/ads/ad1.png",
+   "link":"https://t.me/modwanz"
+  },
+
+  {
+   "type":"banner",
+   "title":"Rz Youtube X Premium",
+   "description":"Youtube tanpa iklan",
+   "image":"https://raw.githubusercontent.com/modwanz/modwanzmanager/main/ads/ad2.png",
+   "link":"https://github.com/modwanz"
+  }
+ ]
+}
