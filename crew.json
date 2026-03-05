@@ -6,7 +6,7 @@
       "latest": "comingsoon",
       "icon": "https://raw.githubusercontent.com/modwanz/modwanzmanager/main/Logo/rzytxprem.png",
       "apk": "#",
-      "changelog": "- Bumped base\n- Improved ad-blocking\n- Added themed icon Android 13+",
+      "changelog": "- Adaptive and Monochrome Icons\n- Updated Icon Set\n- Background Playback Stability\n- Enhanced PIP Mode\n- Fitscreen Rendering Issue\n- Download with Captions\n- Optimized Network Requests\n- Pinch-to-Zoom Gestures\n- Gesture Controls for Volume and Brightness\n- Deprecated Setting Removal\n- Ad-Free Experience\n- Gemini Model Updates\n- URL Input and 60FPS Block Fixes",
       "infoKey": "ytm",
       "packageName": "com.modwanz.android.youtube"
     },
@@ -77,8 +77,8 @@
   ],
   "info": {
   "ytm": {
-      "title": "Rz YouTube X Premium",
-      "message": "- Bumped base\n- Improved ad-blocking\n- Added themed icon Android 13+",
+      "title": "YouTube Modwanz",
+      "message": "- Adaptive and Monochrome Icons\n- Updated Icon Set\n- Background Playback Stability\n- Enhanced PIP Mode\n- Fitscreen Rendering Issue\n- Download with Captions\n- Optimized Network Requests\n- Pinch-to-Zoom Gestures\n- Gesture Controls for Volume and Brightness\n- Deprecated Setting Removal\n- Ad-Free Experience\n- Gemini Model Updates\n- URL Input and 60FPS Block Fixes",
       "icon": "https://raw.githubusercontent.com/modwanz/modwanzmanager/main/Logo/rzytxprem.png"
     },
     "ytx": {
