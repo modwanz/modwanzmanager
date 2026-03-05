@@ -1,5 +1,5 @@
 {
-  "enableUpdate": false,
+  "enableUpdate": true,
   "versionCode": 2,
   "versionName": "1.1",
   "changelog": "• Bug fix\n• UI improvement\n• Faster loading",
