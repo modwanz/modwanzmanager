@@ -1,5 +1,6 @@
 {
   "enableUpdate": true,
+  "title": "Update Manager",
   "versionCode": 2,
   "versionName": "1.1",
   "changelog": "- Bug fix\n- Bumped base\n- UI improvement",
