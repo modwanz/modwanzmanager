@@ -72,6 +72,17 @@
       "changelog": "- No Ads\n -Vip Features Unlocked\n- Multi Language Supported\n- All Debug Info Removed\n- Unnecessary Files Removed\n- Original Signature Changed\n- Full Clean and Optimized",
       "infoKey": "cd",
       "packageName": "maa.slowed_reverb.vaporwave_music_maker_pro"
+    },
+    
+    {
+      "name": "Manager MT",
+      "description": "Premium Unlocked",
+      "latest": "2.14.5 - modwanz",
+      "icon": "https://raw.githubusercontent.com/modwanz/modwanzmanager/main/Logo/CD-Romantic.png",
+      "apk": "#",
+      "changelog": "- No Ads\n -Vip Features Unlocked\n- Multi Language Supported\n- All Debug Info Removed\n- Unnecessary Files Removed\n- Original Signature Changed\n- Full Clean and Optimized",
+      "infoKey": "mt",
+      "packageName": "bin.mt.plus.canary"
     }
     
   ],
@@ -107,6 +118,12 @@
       "icon": "https://raw.githubusercontent.com/modwanz/modwanzmanager/main/Logo/Hypic.png"
     },
     "cd": {
+      "title": "CD-ROMantic Pro",
+      "message": "- No Ads\n -Vip Features Unlocked\n- Multi Language Supported\n- All Debug Info Removed\n- Unnecessary Files Removed\n- Original Signature Changed\n- Full Clean and Optimized",
+      "icon": "https://raw.githubusercontent.com/modwanz/modwanzmanager/main/Logo/CD-Romantic.png"
+    },
+    
+    "mt": {
       "title": "CD-ROMantic Pro",
       "message": "- No Ads\n -Vip Features Unlocked\n- Multi Language Supported\n- All Debug Info Removed\n- Unnecessary Files Removed\n- Original Signature Changed\n- Full Clean and Optimized",
       "icon": "https://raw.githubusercontent.com/modwanz/modwanzmanager/main/Logo/CD-Romantic.png"
