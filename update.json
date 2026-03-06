@@ -2,6 +2,6 @@
   "enableUpdate": true,
   "versionCode": 2,
   "versionName": "1.1",
-  "changelog": "• Bug fix\n• UI improvement\n• Faster loading",
+  "changelog": "- Bug fix\n- Bumped base\n- UI improvement",
   "download": "https://github.com/user/repo/releases/download/app.apk"
 }
