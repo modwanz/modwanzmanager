@@ -78,7 +78,7 @@
       "name": "Manager MT",
       "description": "Premium Unlocked",
       "latest": "2.14.5 - modwanz",
-      "icon": "https://raw.githubusercontent.com/modwanz/modwanzmanager/main/Logo/CD-Romantic.png",
+      "icon": "https://raw.githubusercontent.com/modwanz/modwanzmanager/main/Logo/MT.png",
       "apk": "#",
       "changelog": "- No Ads\n -Vip Features Unlocked\n- Multi Language Supported\n- All Debug Info Removed\n- Unnecessary Files Removed\n- Original Signature Changed\n- Full Clean and Optimized",
       "infoKey": "mt",
@@ -124,11 +124,31 @@
     },
     
     "mt": {
-      "title": "CD-ROMantic Pro",
+      "title": "Manager MT",
       "message": "- No Ads\n -Vip Features Unlocked\n- Multi Language Supported\n- All Debug Info Removed\n- Unnecessary Files Removed\n- Original Signature Changed\n- Full Clean and Optimized",
-      "icon": "https://raw.githubusercontent.com/modwanz/modwanzmanager/main/Logo/CD-Romantic.png"
+      "icon": "https://raw.githubusercontent.com/modwanz/modwanzmanager/main/Logo/MT.png"
     }
     
     
   }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
