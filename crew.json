@@ -90,11 +90,30 @@
       "description": "Premium Unlocked",
       "latest": "1.5.0.0 - modwanz",
       "icon": "https://raw.githubusercontent.com/modwanz/modwanzmanager/main/Logo/Muka.png",
-      "apk": "https://github.com/modwanz/modwanz.apk/releases/download/v1.5.0.0/Muka-modwanz.apk",
+      "apk": "#",
       "changelog": " - Fast & Light\n - Mobile Friendly\n - No Login / Free\n - Download Audio (MP3)\n - Multi-Platform Support\n - Supports many formats\n - Automatic Copy-Paste Link\n - Download Videos Without Watermark",
-      "infoKey": "mk",
-      "packageName": "com.modwanz.muka"
+      "infoKey": "kk",
+      "packageName": "com.seep.muka"
+    },
+    
+    {
+      "name": "BeautyPlus",
+      "description": "Premium Unlocked",
+      "latest": "7.31.0 - modwanz",
+      "icon": "https://raw.githubusercontent.com/modwanz/modwanzmanager/main/Logo/BeautyPlus.png",
+      "apk": "https://github.com/modwanz/modwanz.apk/releases/download/v7.31.0/BeautyPlus_7.31.0.-.modwanz.apk",
+      "changelog": " - Cloud & Sync\n - Pro Virtual Makeup\n - Facial Detail Editing\n - Video Beautify (VIP)\n - Advanced Editing Tools\n - Extra Premium Features\n - No Watermark & No Ads\n - Exclusive Filters & Effects\n - Background & AI Replacement",
+      "infoKey": "bp",
+      "packageName": "com.commsource.beautyplus"
     }
+    
+    
+    
+    
+    
+    
+    
+    
     
    
     
@@ -142,16 +161,20 @@
       "icon": "https://raw.githubusercontent.com/modwanz/modwanzmanager/main/Logo/MT.png"
     },
     
- "mk": {
+ "kk": {
       "title": "Muka",
       "message": " - Fast & Light\n - Mobile Friendly\n - No Login / Free\n - Download Audio (MP3)\n - Multi-Platform Support\n - Supports many formats\n - Automatic Copy-Paste Link\n - Download Videos Without Watermark",
       "icon": "https://raw.githubusercontent.com/modwanz/modwanzmanager/main/Logo/Muka.png"
-    }
+    },
     
+    "bp": {
+      "title": "BeautyPlus",
+      "message": " - Cloud & Sync\n - Pro Virtual Makeup\n - Facial Detail Editing\n - Video Beautify (VIP)\n - Advanced Editing Tools\n - Extra Premium Features\n - No Watermark & No Ads\n - Exclusive Filters & Effects\n - Background & AI Replacement",
+      "icon": "https://raw.githubusercontent.com/modwanz/modwanzmanager/main/Logo/Muka.png"
+    }
     
   }
 }
-
 
 
 
