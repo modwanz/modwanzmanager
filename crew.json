@@ -79,7 +79,7 @@
       "description": "Vip Lifetime",
       "latest": "2.14.5 - modwanz",
       "icon": "https://raw.githubusercontent.com/modwanz/modwanzmanager/main/Logo/MT.png",
-      "apk": "#",
+      "apk": "https://github.com/modwanz/modwanz.apk/releases/download/v2.14.5/Manajer.MT_2.14.5.-.modwanz.apk",
       "changelog": "- No Ads\n -Vip Features Unlocked\n- Multi Language Supported\n- All Debug Info Removed\n- Unnecessary Files Removed\n- Original Signature Changed\n- Full Clean and Optimized",
       "infoKey": "mt",
       "packageName": "bin.mt.plus.canary"
