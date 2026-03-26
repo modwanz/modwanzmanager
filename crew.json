@@ -105,9 +105,19 @@
       "changelog": " - Cloud & Sync\n - Pro Virtual Makeup\n - Facial Detail Editing\n - Video Beautify (VIP)\n - Advanced Editing Tools\n - Extra Premium Features\n - No Watermark & No Ads\n - Exclusive Filters & Effects\n - Background & AI Replacement",
       "infoKey": "bp",
       "packageName": "com.commsource.beautyplus"
+    },
+    
+   {
+      "name": "OnePlayer",
+      "description": "Premium Unlocked",
+      "latest": "2.3.18 - modwanz",
+      "icon": "https://raw.githubusercontent.com/modwanz/modwanzmanager/main/Logo/OnePlayer.png",
+      "apk": "https://github.com/modwanz/modwanz.apk/releases/download/v2.3.18/OnePlayer_2.3.18.-.modwanz.apk",
+      "changelog": " - Ad-Free Experience\n - Performance Boost\n - Unlimited Downloads\n - Exclusive Pro Access\n - Video Enhancements\n - Smart Music Features\n - Premium Customization\n - Advanced Media Playback",
+      "infoKey": "op",
+      "packageName": "com.modwanz.oneplayer"
     }
-    
-    
+     
     
     
     
@@ -173,9 +183,14 @@
       "icon": "https://raw.githubusercontent.com/modwanz/modwanzmanager/main/Logo/Muka.png"
     }
     
+    "op": {
+      "title": "OnePlayer",
+      "message": " - Ad-Free Experience\n - Performance Boost\n - Unlimited Downloads\n - Exclusive Pro Access\n - Video Enhancements\n - Smart Music Features\n - Premium Customization\n - Advanced Media Playback",
+      "icon": "https://raw.githubusercontent.com/modwanz/modwanzmanager/main/Logo/OnePlayer.png"
+    }
+    
   }
 }
-
 
 
 
