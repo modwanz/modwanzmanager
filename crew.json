@@ -90,7 +90,7 @@
       "description": "Premium Unlocked",
       "latest": "1.5.0.0 - modwanz",
       "icon": "https://raw.githubusercontent.com/modwanz/modwanzmanager/main/Logo/Muka.png",
-      "apk": "#",
+      "apk": "https://github.com/modwanz/modwanz.apk/releases/download/v1.5.0.0/Muka_1.5.0.0.-.modwanz.apk",
       "changelog": " - Fast & Light\n - Mobile Friendly\n - No Login / Free\n - Download Audio (MP3)\n - Multi-Platform Support\n - Supports many formats\n - Automatic Copy-Paste Link\n - Download Videos Without Watermark",
       "infoKey": "kk",
       "packageName": "com.seep.muka"
