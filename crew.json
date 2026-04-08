@@ -5,7 +5,7 @@
       "description": "Klien Youtube Termodifikasi",
       "latest": "2.0.2 - modwanz",
       "icon": "https://raw.githubusercontent.com/modwanz/modwanzmanager/main/Logo/rzytxprem.png",
-      "apk": "#",
+      "apk": "https://github.com/modwanz/YtModwanz/releases/download/v2.0.2/YouTube.Modwanz_2.0.2.-.modwanz.apk",
       "changelog": "- Adaptive and Monochrome Icons\n- Updated Icon Set\n- Background Playback Stability\n- Enhanced PIP Mode\n- Fitscreen Rendering Issue\n- Download with Captions\n- Optimized Network Requests\n- Pinch-to-Zoom Gestures\n- Gesture Controls for Volume and Brightness\n- Deprecated Setting Removal\n- Ad-Free Experience\n- Gemini Model Updates\n- URL Input and 60FPS Block Fixes",
       "infoKey": "ytm",
       "packageName": "com.modwanz.youtube"
