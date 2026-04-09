@@ -130,9 +130,9 @@
   ],
   "info": {
   "ytm": {
-      "title": "YouTube Modwanz",
-      "message": "- Adaptive and Monochrome Icons\n- Updated Icon Set\n- Background Playback Stability\n- Enhanced PIP Mode\n- Fitscreen Rendering Issue\n- Download with Captions\n- Optimized Network Requests\n- Pinch-to-Zoom Gestures\n- Gesture Controls for Volume and Brightness\n- Deprecated Setting Removal\n- Ad-Free Experience\n- Gemini Model Updates\n- URL Input and 60FPS Block Fixes",
-      "icon": "https://raw.githubusercontent.com/modwanz/modwanzmanager/main/Logo/rzytxprem.png"
+    "title": "YouTube Modwanz",
+    "message": "- Sponsor-block\n - Ad-free playback\n - Mini-player support\n - Local queue support\n - Gemini Model Updates\n - Live stream chat support, etc\n- Built-in video and playlist downloader\n- Background & Picture-in-Picture support",
+    "icon": "https://raw.githubusercontent.com/modwanz/modwanzmanager/main/Logo/rzytxprem.png"
     },
     "ytx": {
       "title": "Rz YouTube X Premium",
