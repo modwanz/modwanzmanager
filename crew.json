@@ -6,8 +6,8 @@
       "latest": "2.0.2 - modwanz",
       "icon": "https://raw.githubusercontent.com/modwanz/modwanzmanager/main/Logo/rzytxprem.png",
       "apk": "https://github.com/modwanz/YtModwanz/releases/download/v2.0.2/YouTube.Modwanz_2.0.2.-.modwanz.apk",
-      "changelog": "- Sponsor-block\n - Ad-free playback\n - Mini-player support\n - Local queue support\n - Gemini Model Updates\n - Live stream chat support, etc\n- Built-in video and playlist downloader\n- Background & Picture-in-Picture support",
-      "infoKey": "ytm",
+     "changelog": "- Sponsor-block\n- Ad-free playback\n- Mini-player support\n- Local queue support\n- Gemini Model Updates\n- Live stream chat support, etc\n- Built-in video and playlist downloader\n- Background & Picture-in-Picture support",
+     "infoKey": "ytm",
       "packageName": "com.modwanz.youtube"
     },
     {
@@ -131,8 +131,8 @@
   "info": {
   "ytm": {
     "title": "YouTube Modwanz",
-    "message": "- Sponsor-block\n - Ad-free playback\n - Mini-player support\n - Local queue support\n - Gemini Model Updates\n - Live stream chat support, etc\n- Built-in video and playlist downloader\n- Background & Picture-in-Picture support",
-    "icon": "https://raw.githubusercontent.com/modwanz/modwanzmanager/main/Logo/rzytxprem.png"
+    "message": "- Sponsor-block\n- Ad-free playback\n- Mini-player support\n- Local queue support\n- Gemini Model Updates\n- Live stream chat support, etc\n- Built-in video and playlist downloader\n- Background & Picture-in-Picture support",
+     "icon": "https://raw.githubusercontent.com/modwanz/modwanzmanager/main/Logo/rzytxprem.png"
     },
     "ytx": {
       "title": "Rz YouTube X Premium",
@@ -191,20 +191,3 @@
     
   }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
